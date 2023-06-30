@@ -3,7 +3,7 @@
 # I´m a mobile developer
 
 
-## Tecnologías:
+## Technologies:
 - [![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
   - [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 - [![Apple](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
