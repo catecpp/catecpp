@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-# I´m a mobile developer
+## I´m a mobile developer
 
 
-## Technologies:
+### Technologies:
 - [![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00ACF2&labelColor=101010)]()
   - [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ACF2&labelColor=101010)]()
 - [![Apple](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=E8E9E9&labelColor=101010)]()
