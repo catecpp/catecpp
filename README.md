@@ -1,36 +1,58 @@
-# Hi there 👋
+# Hello, World! 🌎
 
-## I´m a mobile developer
+## I'm a Mobile Developer! 🎩✨
+
+Welcome to my digital playground! Here, every line of code is a step towards innovation. If you're looking for that, you're in the right place. Dive into my repositories and witness the magic!
+
+### 🛠 Tech Stack:
+- **Swift, UIKit & SwiftUI**: Crafting iOS experiences that users love.
+- **iOS Architecture**: MVC, MVVM, VIPER - Structuring apps the Swift way.
+- **Flutter & Dart**: For cross-platform wonders. 
+- **Flutter Architecture**: Providers, BloC, Clean Architecture - Flutter's best practices.
+- **UI/UX**: Crafting intuitive and beautiful user experiences.
+- **Databases**: MYSQL, SQLITE, NOSQL - Powering apps from the backend.
+- **API-REST**: Making apps alive with real-time data.
+- **Backend**: Powering apps with Python.
+- **Cloud & AWS**: Elevating apps to the cloud.
+- **CI/CD**: Automating the development lifecycle.
+- **SOLID Principles**: Writing maintainable and efficient code.
+
+### 🌟 Soft Skills:
+- Teamwork and communication: Collaborating to bring visions to life.
+
+### 🚀 What I'm Passionate About:
+- The thrill of turning ideas into reality.
+- The pleasure of seamless user experiences.
+- The hunger for the next big challenge.
+- Building scalable mobile architectures.
+- Continuous learning and pushing the boundaries.
+
+### 📱 Got Challenges? 
+Bring them on! I love a good puzzle. Let's collaborate and turn your idea into the next big app.
+
+### 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/jaime-alfonso-pérez-rojas)
+
+Every challenge is an opportunity!
+##
+
+[![Dart](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=dart&logoColor=0175C2)]()
+ [![Flutter](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=flutter&logoColor=38C1F6&labelColor=101010)]()
+ [![Apple](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=apple&logoColor=E8E9E9&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=swift&logoColor=F05138&labelColor=101010)]()
+[![iOS](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=iOS&logoColor=00000&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=xcode&logoColor=147EFB&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=Python&logoColor=3776AB&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=Firebase&logoColor=FFCA28&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=MySQL&logoColor=4479A1&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=MongoDB&logoColor=47A248&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=GitHub&logoColor=11117&labelColor=101010)]()
+[![VisualStudioCode](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=visualStudioCode&logoColor=007ACC&labelColor=101010)]()
+[![AdobeXD](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=adobeXD&logoColor=#FF61F6&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=HTML5&logoColor=#E34F26&labelColor=101010)]()
+[![Css3](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=CSS3&logoColor=#1572B6&labelColor=101010)]()
+[![AppStore](https://img.shields.io/badge/-0F1216?style=for-the-badge&logo=appStore&logoColor=#0D96F6&labelColor=101010)]()
 
 
-### Technologies:
-- [![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00ACF2&labelColor=101010)]()
-  - [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ACF2&labelColor=101010)]()
-- [![Apple](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=E8E9E9&labelColor=101010)]()
-  - [![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FE5C2E&labelColor=101010)]()
-  - [![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=0082E3&labelColor=101010)]()
 
-- [![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FCC81F&labelColor=101010)]()
-- [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=457391&labelColor=101010)]()
-- [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=E34D31&labelColor=101010)]()
-- [![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-000000?style=for-the-badge&logo=visualStudioCode&logoColor=2F8CEF&labelColor=101010)]()
-
-
-
-
-
-
-<!--
-**catecpp/catecpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
