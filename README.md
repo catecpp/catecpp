@@ -13,7 +13,7 @@ Welcome to my digital playground! Here, every line of code is a step towards inn
 - **Databases**: MYSQL, SQLITE, NOSQL - Powering apps from the backend.
 - **API-REST**: Making apps alive with real-time data.
 - **Backend**: Powering apps with Python.
-- **Cloud & AWS**: Elevating apps to the cloud.
+- **Google Cloud, Azure  & AWS**: Elevating apps to the cloud.
 - **CI/CD**: Automating the development lifecycle.
 - **SOLID Principles**: Writing maintainable and efficient code.
 
