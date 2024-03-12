@@ -17,6 +17,8 @@ Welcome to my digital playground! Here, every line of code is a step towards inn
 - **CI/CD**: Automating the development lifecycle.
 - **SOLID Principles**: Writing maintainable and efficient code.
 
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-A-Perez&layout=compact&theme=vision-friendly-dark)
+
 ### 🌟 Soft Skills:
 - Teamwork and communication: Collaborating to bring visions to life.
 
@@ -30,8 +32,12 @@ Welcome to my digital playground! Here, every line of code is a step towards inn
 ### 📱 Got Challenges? 
 Bring them on! I love a good puzzle. Let's collaborate and turn your idea into the next big app.
 
+### 🤩 Featured projects
+- [iOSAppTimetonic](https://github.com/Jaime-A-Perez/iOSAppTimetonic)
+- [RickAndMortyApi-Flutter](https://github.com/Jaime-A-Perez/RickAndMortyApi-Flutter)
+
 ### 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/jaime-alfonso-pérez-rojas)
+<a href="https://www.linkedin.com/in/jaime-alfonso-pérez-rojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchirasinha93" height="30" width="40" /></a>
 
 Every challenge is an opportunity!
 ##
